@@ -2,6 +2,7 @@
 * After you make any change you need to restart the application using the **Build & Restart application** command from the second item from the right side bar
 * Make sure to run test cases using **Run Test** button in order to validate your solution
   
+### Algorithm
 The following is an error check algorithm used for testing if a card numberis valid. Given a card number:
 1. From the last digit moving backwards, double every second digit
 2. If the doubled number is greater than 9, add it’s two digits together
